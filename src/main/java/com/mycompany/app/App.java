@@ -24,7 +24,7 @@ public class App extends JFrame {
     String date;
     App() {
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setTitle("Digital Clock");
+        this.setTitle("Digital Clock Project");
         this.setLayout(new FlowLayout());
         this.setSize(350, 220);
         this.setResizable(false);
